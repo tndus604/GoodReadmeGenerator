@@ -1,4 +1,8 @@
 # GoodReadmeGenerator
+
+## Demo Video
+
+![code quiz](./Assets/readme_video.gif)
     
 ## Description
     
