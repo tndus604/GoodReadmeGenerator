@@ -128,7 +128,7 @@ async function main() {
     \n## License
     \nThis project is licensed under the ${licenseGit}.`);
 
-    fs.writeFile('readme2.md', result, writeComplete);
+    fs.writeFile('README.md', result, writeComplete);
 };
 
 function writeComplete( err, data ){
