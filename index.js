@@ -83,13 +83,14 @@ async function main() {
         var conLogin = conData.login;
         var conEmail = conData.email;
         var contributorResult = (`
-        <img src="${conPicture}" alt="drawing" width="150" display="inline"/> 
-        GitHub Username: ${conLogin}
-        Email: ${conEmail}  
-        GitHubLink: ${conURL}
+        \n![ProfileImage](${conPicture})
+        \nGitHub Username: ${conLogin}
+        \nEmail: ${conEmail}  
+        \nGitHubLink: ${conURL}
         `);
     }
-    console.log(`test if this is working`)
+
+
     //result that will be putting in README.md
     var result = (
     `# ${projectTitle}

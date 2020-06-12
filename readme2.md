@@ -22,7 +22,7 @@ The project is to create a command-line application that dynamically generates a
     
 ## Installation
     
-In the terminal/GitBash, type “npm init” then type the followings in sequence: “npm install inquirer”, “npm install axios” and “node index.js”
+In the terminal/GitBash, type `npm init` then type the followings in sequence: `npm install inquirer`, `npm install axios` and `node index.js`.
 
     
 ## Usage
@@ -32,17 +32,22 @@ User is prompt to answer questions. Once all questions are answered and complete
     
 ## Tests
     
-Using terminal or GitBash, type “node index.js” to see if questions are prompt. If it is working, do console.log(result) to see all the results/responses are generated correctly.
+Using terminal or GitBash, type `node index.js` to see if questions are prompt. If it is working, do console.log(result) to see all the results/responses are generated correctly.
 
     
 ## Credits
     
 This project was contributed by:
     
-        <img src="https://avatars0.githubusercontent.com/u/65268642?v=4" alt="drawing" width="150" display="inline"/> 
-        GitHub Username: nuleeannajeon
-        Email: null  
-        GitHubLink: https://github.com/nuleeannajeon
+
+        
+![ProfileImage](https://avatars1.githubusercontent.com/u/908459?v=4)
+        
+GitHub Username: c0dehot
+        
+Email: null  
+        
+GitHubLink: https://github.com/c0dehot
         
 
     
@@ -54,11 +59,11 @@ Username: tndus604
     
 Email: null
     
-Location: Toronto ON
+Location: Toronto, Canada
     
 GitHub site: https://github.com/tndus604
     
     
 ## License
     
-This project is licensed under the Trilogy Education.
+This project is licensed under the Trilogy Education Services.
