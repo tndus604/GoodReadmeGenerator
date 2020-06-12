@@ -1,0 +1,23 @@
+{
+  "name": "goodreadmegenerator",
+  "version": "1.0.0",
+  "description": "The project is to create a command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the command `node index.js`. The user will be prompted for their GitHub username and other information about their project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tndus604/GoodReadmeGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tndus604/GoodReadmeGenerator/issues"
+  },
+  "homepage": "https://github.com/tndus604/GoodReadmeGenerator#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.1.0"
+  }
+}
